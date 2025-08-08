@@ -1,14 +1,13 @@
-# sma-love-ykh.github.io
-# 내프로젝트
-(/assets/image/pooh.jpg)
 <!DOCTYPE html>
 <html>
 <head>
     <meta charset="UTF-8">
-    <title>My First GitHub Page</title>
+    Our wedding day
 </head>
 <body>
-    <h1>안녕하세요!</h1>
-    <p>이 페이지는 깃허브로 만든 첫 웹페이지입니다.</p>
+    <h1>신명아 & 유규환</h1>
+    <p>2025년 11월 22일 토요일 12시</p>
+    <img src="https://github.com/user-attachments/assets/d33647bc-270f-4d4c-ba6f-aaf830c872e1"></img>
 </body>
 </html>
+
