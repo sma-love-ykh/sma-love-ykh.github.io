@@ -1,7 +1,8 @@
 title: "Our wedding day"
 description: "2025년 11월 22일 토요일 12시"
-theme: remote_theme: daattali/beautiful-jekyll
+theme: mmistakes/minimal-mistakes
 
 author:
-  name: "홍길동"
+  name: "신명아"
   avatar: "pooh.jpg" # 프로필 이미지 경로
+  bio: "뀨기 친구"
