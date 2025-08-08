@@ -4,5 +4,5 @@ theme: mmistakes/minimal-mistakes
 
 author:
   name: "신명아"
-  avatar: "pooh.jpg" # 프로필 이미지 경로
+  avatar: "/assets/images/pooh.jpg" # 프로필 이미지 경로
   bio: "뀨기 친구"
