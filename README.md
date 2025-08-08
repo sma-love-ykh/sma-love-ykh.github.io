@@ -1,5 +1,6 @@
 # sma-love-ykh.github.io
 # 내프로젝트
+(/assets/image/pooh.jpg)
 <!DOCTYPE html>
 <html>
 <head>
