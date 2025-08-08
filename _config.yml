@@ -4,4 +4,4 @@ theme: remote_theme: daattali/beautiful-jekyll
 
 author:
   name: "홍길동"
-  avatar: "/assets/images/pooh.jpg" # 프로필 이미지 경로
+  avatar: "pooh.jpg" # 프로필 이미지 경로
